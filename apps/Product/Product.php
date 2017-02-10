@@ -1,5 +1,4 @@
 <?php 
-namespace core;
 
 class Product{
 	public $title = '';
